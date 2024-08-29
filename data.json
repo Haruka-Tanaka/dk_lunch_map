@@ -1,31 +1,7 @@
 {
-  "range": "'スポットデータ'!A1:K84",
-  "majorDimension": "ROWS",
-  "values": [
-    [
-      "タイムスタンプ",
-      "カテゴリ",
-      "画像",
-      "緯度",
-      "経度",
-      "スポット名",
-      "紹介文",
-      "Instagram",
-      "Twitter",
-      "公式サイト",
-      "Facebook"
-    ],
-    [
-      "2022/05/11 14:46:34",
-      "ラーメン",
-      "",
-      "35.70659711",
-      "139.7783513",
-      "とりジンジャー",
-      "ショウガにこだわってるラーメン屋さん。",
-      "",
-      "",
-      "https://toriginger.com/"
-    ]
-  ]
+  "error": {
+    "code": 503,
+    "message": "Method GetValues of service sheets.googleapis.com is visibility restricted, but Chemist visibility check was unavailable.",
+    "status": "UNAVAILABLE"
+  }
 }
